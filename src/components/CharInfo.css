@@ -1,0 +1,26 @@
+.charInfo {
+    background: rgba(255,255,255,.2);
+    text-align: center;
+    color: orange;
+    max-width: 960px;
+    width: 70%;
+    margin: auto;
+    padding: 1em;
+    border-top-left-radius: 15px;
+}
+.btn {
+    margin: 10px 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li p {
+    display: inline-block;
+    padding: 5px 5px;
+}
+li p:hover {
+    border-bottom: 1px solid palegreen;
+    cursor: pointer;
+}
